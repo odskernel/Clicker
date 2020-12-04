@@ -1,5 +1,5 @@
 # Clicker
-It's a pseudo remote GUI operation tool for Windows.  
+It's a pseudo remote GUI operation tool for Windows pentesting.  
 You need shell access to use Clicker on the victim machine.
 
 If you use ClickOperator, this command is needed
@@ -19,6 +19,4 @@ clicker.exe -e 127.0.0.1 {port for data} "i:input this text !"
 ```
 you can use KeyCode  
 https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.sendkeys.send?view=net-5.0
-
-
 
