@@ -15,7 +15,7 @@ Clicker get screen-shot and send it to specified destination.
 
 Input text
 ```
-clicker.exe -e 127.0.0.1 {port for data} "i:input this text !"
+clicker.exe -e {dst IP address} {port for data} "i:input this text !"
 ```
 you can use KeyCode  
 https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.sendkeys.send?view=net-5.0
