@@ -1,0 +1,9 @@
+# Hash (sha256)
+## clicker.exe  
+201a338b99cdb99f1425f9cceaabfffd9b1400bec1ca0877869f8391b9c00d34  
+
+## ClickOperator.exe
+ce1efa80e021175238e683a3cc18323a7441dbc27f9800166ac0b55aea434961  
+
+## nc64.exe
+3e59379f585ebf0becb6b4e06d0fbbf806de28a4bb256e837b4555f1b4245571  
